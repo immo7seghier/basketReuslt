@@ -194,7 +194,7 @@ class _MyAppState extends State<MyApp> {
                   ]),
                 ],
               ),
-              Padding(padding: EdgeInsets.only(bottom: 60)),
+              Padding(padding: EdgeInsets.only(bottom: 20)),
               ElevatedButton(
                   style: ButtonStyle(
                       shape: WidgetStatePropertyAll<RoundedRectangleBorder>(
